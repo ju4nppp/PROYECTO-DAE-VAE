@@ -94,7 +94,7 @@ Se evaluó la calidad de las imágenes generadas por el VAE considerando:
 
 * **Realismo visual:** Comparación de las imágenes generadas con las originales.
 * **Diversidad:** Medición de la variabilidad en las imágenes generadas.
-* **Métricas cuantitativas:** Análisis de métricas como el SSIM (Structural Similarity Index) y el FID (Fréchet Inception Distance) para evaluar la similitud estructural y la calidad de las imágenes generadas.
+
 
 ### Resultados del VAE
 
